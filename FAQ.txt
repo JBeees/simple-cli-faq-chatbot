@@ -1,0 +1,13 @@
+Apa itu AI?|AI adalah Artificial Intelligence, yaitu kecerdasan buatan yang meniru kemampuan berpikir manusia.
+Apa itu Machine Learning?|Machine Learning adalah cabang AI yang memungkinkan sistem belajar dari data tanpa diprogram secara eksplisit.
+Apa itu Deep Learning?|Deep Learning adalah teknik Machine Learning berbasis neural network berlapis.
+Apa itu Chatbot?|Chatbot adalah program yang dapat berinteraksi dengan manusia melalui teks atau suara.
+Apa itu LLM?|LLM adalah Large Language Model yang dilatih menggunakan data teks dalam jumlah besar.
+Apa fungsi AI?|AI digunakan untuk otomatisasi, analisis data, pengenalan pola, dan pengambilan keputusan.
+Contoh penggunaan AI?|Contohnya: rekomendasi film, face recognition, asisten virtual, dan deteksi penipuan.
+Apa itu Neural Network?|Neural Network adalah model komputasi yang meniru cara kerja otak manusia.
+Apa itu Dataset?|Dataset adalah kumpulan data yang digunakan untuk melatih model AI.
+Apa itu Prompt?|Prompt adalah input atau perintah yang diberikan ke model AI.
+Apakah AI bisa menggantikan manusia?|AI membantu manusia, tetapi tidak sepenuhnya menggantikan kreativitas dan empati manusia.
+Apa risiko AI?|Risikonya meliputi bias data, privasi, dan penyalahgunaan teknologi.
+Bagaimana cara belajar AI?|Mulai dari Python, matematika dasar, lalu Machine Learning.
